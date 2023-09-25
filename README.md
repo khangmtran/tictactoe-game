@@ -1,1 +1,4 @@
-tictactoe game in java with 2 AIs model and 3 views GUI
+Tic-Tac-Toe game developed in java  
+Features:  
+**•** 2 AIs model: Random and Intermediate  
+**•** 3 views GUI
